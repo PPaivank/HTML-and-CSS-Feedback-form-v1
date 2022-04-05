@@ -1,0 +1,178 @@
+.feedback {
+  width: 700px;
+  max-width: 2800px;
+  background: #fff;
+  margin: 0 auto;
+  padding: 15px;
+  box-shadow: 1px 1px 16px rgba(0, 0, 0, 0.3);
+}
+
+.feedback h5 {
+  font-size: 15px;
+}
+
+#TextUnderTheBox p {
+  font-size: 9px;
+  top: -18px;
+  left: 5px;
+  position: relative
+}
+
+.survey-hr {
+  margin: 10px 0;
+  border: .5px solid #696969;
+}
+
+body {
+  background: #FFFFF;
+  color: #222;
+  font-size: 100%;
+  line-height: 24px;
+  margin: 0px;
+  padding: 0px;
+  font-family: "Raleway", sans-serif;
+}
+
+.table1 {
+  border: 1px solid #A9A9A9;
+  background-color: #F8F8F8;
+}
+
+a {
+  font-family: "Raleway", sans-serif;
+  text-decoration: none;
+  outline: none;
+}
+
+a:hover, a:focus {
+  color: #373e18;
+}
+
+section {
+  float: left;
+  width: 100%;
+  padding-bottom: 3em;
+}
+
+h2 {
+  color: #1a0e0e;
+  font-size: 26px;
+  font-weight: 700;
+  margin: 0;
+  line-height: normal;
+  text-transform: uppercase;
+}
+
+h2 span {
+  display: block;
+  padding: 0;
+  font-size: 18px;
+  opacity: 0.7;
+  margin-top: 5px;
+  text-transform: uppercase;
+}
+
+#float-right {
+  float: right;
+}
+
+.ScriptTop {
+  background: #fff none repeat scroll 0 0;
+  float: left;
+  font-size: 0.69em;
+  font-weight: 600;
+  line-height: 2.2;
+  padding: 12px 0;
+  text-transform: uppercase;
+  width: 100%;
+}
+
+
+
+.ScriptHeader {
+  float: left;
+  width: 100%;
+  padding: 2em 0;
+}
+
+.rt-heading {
+  margin: 0 auto;
+  text-align: center;
+}
+
+.Scriptcontent {
+  line-height: 28px;
+}
+
+.ScriptHeader h1 {
+  font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+  color: black;
+  font-size: 25px;
+  font-weight: 700;
+  margin: 0;
+  line-height: normal;
+
+
+}
+
+.ScriptHeader h2 {
+  color: #312c8f;
+  font-size: 20px;
+  font-weight: 400;
+  margin: 5px 0 0;
+  line-height: normal;
+
+}
+
+.ScriptHeader h1 span {
+  display: block;
+  padding: 0;
+  font-size: 22px;
+  opacity: 0.7;
+  margin-top: 5px;
+
+}
+
+.ScriptHeader span {
+  display: block;
+  padding: 0;
+  font-size: 22px;
+  opacity: 0.7;
+  margin-top: 5px;
+}
+
+.rt-container {
+  margin: 0 auto;
+  padding-left: 12px;
+  padding-right: 12px;
+}
+
+.rt-row:before, .rt-row:after {
+  display: table;
+  line-height: 0;
+  content: "";
+}
+
+.rt-row:after {
+  clear: both;
+}
+
+
+/* estrela */
+
+}
+
+.rating label {
+  display: block;
+  cursor: pointer;
+  width: 50px;
+
+}
+
+.POutros p {
+  text-align: left;
+}
+
+#Outros {
+  align-items: right;
+}
